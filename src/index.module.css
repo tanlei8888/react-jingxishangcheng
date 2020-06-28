@@ -34,23 +34,23 @@ html body .active {
 .jinxi .jinxiBanner {
   position: relative;
   margin-top: 1.33333333rem;
-  height: 4.26666667rem;
+  height: 6.4rem;
   width: 100%;
 }
 .jinxi .jinxiBanner .jinxiBannerList {
   width: 100%;
-  height: 4.26666667rem;
+  height: 6.4rem;
   position: relative;
 }
 .jinxi .jinxiBanner .jinxiBannerList .jinxiBannerItem {
   position: absolute;
   width: 100%;
-  height: 4.26666667rem;
+  height: 6.4rem;
   transition: all 0.5s;
 }
 .jinxi .jinxiBanner .jinxiBannerList .jinxiBannerItem .img {
   width: 100%;
-  height: 4.26666667rem;
+  height: 6.4rem;
 }
 .jinxi .jinxiBanner .jinxiBannerList .hidden {
   opacity: 0;

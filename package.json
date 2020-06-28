@@ -10,6 +10,8 @@
     "customize-cra": "^1.0.0",
     "less": "^3.11.3",
     "lib-flexible": "^0.3.2",
+    "postcss-loader": "^3.0.0",
+    "postcss-px2rem": "^0.3.0",
     "react": "^16.13.1",
     "react-app-rewired": "^2.1.6",
     "react-dom": "^16.13.1",
